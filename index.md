@@ -4,8 +4,7 @@
 
 ### Featured Projects
 
-[Google Merchandise Store Dashboard (Google Analytics, BigQuery, BI, Tableau)]
-(https://ipekbasman.notion.site/Digital-Marketing-18627d52c146480db31b98c7570fe4c5?pvs=4)
+[Google Merchandise Store Dashboard (Google Analytics, BigQuery, BI, Tableau)](https://ipekbasman.notion.site/Digital-Marketing-18627d52c146480db31b98c7570fe4c5?pvs=4)
 - Worked with Google Merchandise Store, connected customer online behavior and conversion to sales and profitability, made recommendations with impact on business outcomes
 - Used Google Analytics, BigQuery and Data Studio to analyze data collected by JavaScript tags, measure effectiveness of marketing strategies, tell marketers what works and what doesn't
 - Determined the best digital marketing tactics to reach target audience, drive them through conversion funnel AIDA (awareness, interest, desire, action), and maximize traffic and conversions
