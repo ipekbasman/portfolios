@@ -1,11 +1,13 @@
 title: Ipek Basman
 logo: "/images/1717906393995.jpeg?raw=true" # your photo (or logo) here
 
-description: >  
+description: >
   I'm a data analyst with a knack for turning complex data into actionable insights.
   Leveraging my expertise to bridge the business-data gap. My expertise lies in data analysis using SQL, Python, and Power BI, allowing me to automate dashboards, streamline workflows, and empower stakeholders with clear and concise communication. I excel at uncovering behavioral patterns, pinpointing business challenges, and crafting data-driven solutions that drive value for both internal teams and external customers.
-
+  <br>  # Line break with <br> tag
   View My LinkedIn Profile: https://www.linkedin.com/in/ipek-ba%C5%9Fman/
+  <br>  # Line break with <br> tag
   View My Notion Portfolios: https://ipekbasman.notion.site/Ipek-Basman-s-Portfolio-8e31eddec07f4d7990dbb1da23f255f8?pvs=4
 
 theme: jekyll-theme-minimal
+
